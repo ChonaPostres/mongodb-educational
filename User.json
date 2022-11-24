@@ -1,0 +1,265 @@
+[{
+  "_id": {
+    "$oid": "637995db976d1b094822c09f"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668912603394"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668912603394"
+    }
+  },
+  "name": "Ignacio",
+  "lastName": "Araya",
+  "nickname": "ChonaPostres",
+  "email": "vicariousmen@gmail.com",
+  "role": "jugador",
+  "status": 1,
+  "failedAttempts": 0,
+  "score": 3010
+},{
+  "_id": {
+    "$oid": "637d4bbe4fd37a3bb4a29413"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669155774111"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669155774111"
+    }
+  },
+  "name": "Lukas",
+  "lastName": "Perez",
+  "nickname": "BellBoy",
+  "email": "pasquale28@gmail.com",
+  "role": "jugador",
+  "status": 1,
+  "failedAttempts": 0,
+  "score": 3000
+},{
+  "_id": {
+    "$oid": "637d4bd04fd37a3bb4a29416"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669155792615"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669155792615"
+    }
+  },
+  "name": "Adrian",
+  "lastName": "Hills",
+  "nickname": "Pralltiller",
+  "email": "adrian.hills@gmail.com",
+  "role": "jugador",
+  "status": 1,
+  "failedAttempts": 0,
+  "score": 3500
+},{
+  "_id": {
+    "$oid": "637d4c074fd37a3bb4a2941c"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669155847437"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669155847437"
+    }
+  },
+  "name": "Joyce",
+  "lastName": "Sanchez",
+  "nickname": "BlueLagoon",
+  "email": "joyce9@gmail.com",
+  "role": "jugador",
+  "status": 1,
+  "failedAttempts": 0,
+  "score": 3600
+},{
+  "_id": {
+    "$oid": "637d4c144fd37a3bb4a2941f"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669155860912"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669155860912"
+    }
+  },
+  "name": "Felipe",
+  "lastName": "Camiroaga",
+  "nickname": "KrakenBite",
+  "email": "omer16@gmail.com",
+  "role": "jugador",
+  "status": 1,
+  "failedAttempts": 0,
+  "score": 1230
+},{
+  "_id": {
+    "$oid": "637d4c234fd37a3bb4a29422"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669155875875"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669155875875"
+    }
+  },
+  "name": "Tulio",
+  "lastName": "Triviño",
+  "nickname": "ElectricEel",
+  "email": "ashlee_goyette17@gmail.com",
+  "role": "jugador",
+  "status": -1,
+  "failedAttempts": 0,
+  "score": 1000
+},{
+  "_id": {
+    "$oid": "637d4c444fd37a3bb4a29428"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669155908772"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669155908772"
+    }
+  },
+  "name": "Chris",
+  "lastName": "Evans",
+  "nickname": "NarcCop",
+  "email": "marilou97@gmail.com",
+  "role": "jugador",
+  "status": 1,
+  "failedAttempts": 0,
+  "score": 100
+},{
+  "_id": {
+    "$oid": "637e937be852b7338c27728a"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669239675338"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669239675338"
+    }
+  },
+  "name": "admin",
+  "lastName": "admin",
+  "nickname": "Admin",
+  "email": "admin@gmail.com",
+  "role": "administrador",
+  "status": 1,
+  "failedAttempts": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "637fac0c2c0591567c842de4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669311500063"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669311500063"
+    }
+  },
+  "name": "Melanie",
+  "lastName": "Orellana",
+  "nickname": "Miro",
+  "email": "melanie.orellana@gmail.com",
+  "role": "jugador",
+  "status": 1,
+  "failedAttempts": 0,
+  "score": 9999
+},{
+  "_id": {
+    "$oid": "637fc7bcebef4a2b30e4aa0c"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669318588571"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669318588571"
+    }
+  },
+  "name": "Sandra",
+  "lastName": "Cano",
+  "nickname": "SuperProfe",
+  "email": "sandra.cano@gmail.com",
+  "role": "administrador",
+  "status": 1,
+  "failedAttempts": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "637fcc02ea90db5b80006f43"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669319682533"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669319682533"
+    }
+  },
+  "name": "Marcela",
+  "lastName": "Puyol",
+  "nickname": "Burnice56",
+  "email": "burnice56@gmail.com",
+  "role": "jugador",
+  "status": 1,
+  "failedAttempts": 0,
+  "score": 0
+},{
+  "_id": {
+    "$oid": "637fcf896cb88053b085a3b1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669320585022"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669320585022"
+    }
+  },
+  "name": "jugador",
+  "lastName": "jugador",
+  "nickname": "Jugador",
+  "email": "jugador@gmail.com",
+  "role": "jugador",
+  "status": 1,
+  "failedAttempts": 0,
+  "score": 2525
+}]

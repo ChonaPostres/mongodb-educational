@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "637827ba45d7f6e5540d87cc"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663889450996"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663889450996"
+    }
+  },
+  "slug": "jugador",
+  "title": "Jugador",
+  "description": "Perfiles para Jugadores",
+  "createdBy": "vicariousmen@gmail.com",
+  "status": 1,
+  "privilege": [],
+  "slug_history": null
+},{
+  "_id": {
+    "$oid": "637827e545d7f6e5540d87d2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663889450996"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1663889450996"
+    }
+  },
+  "slug": "administrador",
+  "title": "Administrador",
+  "description": "Perfiles para Adminstrador",
+  "createdBy": "vicariousmen@gmail.com",
+  "status": 1,
+  "privilege": [],
+  "slug_history": null
+}]

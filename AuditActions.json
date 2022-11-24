@@ -1,0 +1,343 @@
+[{
+  "_id": {
+    "$oid": "637995db976d1b094822c0a1"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668912603405"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668912603405"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "637995db976d1b094822c09f"
+  }
+},{
+  "_id": {
+    "$oid": "6379be26778b1b5bb8005faf"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668922918224"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668922918224"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "6379be26778b1b5bb8005fad"
+  }
+},{
+  "_id": {
+    "$oid": "6379be8d778b1b5bb8005fb2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668923021039"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668923021039"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "6379be8d778b1b5bb8005fb0"
+  }
+},{
+  "_id": {
+    "$oid": "6379bece7676814b44f35a15"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668923086143"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668923086143"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "6379bece7676814b44f35a13"
+  }
+},{
+  "_id": {
+    "$oid": "637d4bbe4fd37a3bb4a29415"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669155774114"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669155774114"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "637d4bbe4fd37a3bb4a29413"
+  }
+},{
+  "_id": {
+    "$oid": "637d4bd04fd37a3bb4a29418"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669155792617"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669155792617"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "637d4bd04fd37a3bb4a29416"
+  }
+},{
+  "_id": {
+    "$oid": "637d4bf74fd37a3bb4a2941b"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669155831757"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669155831757"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "637d4bf74fd37a3bb4a29419"
+  }
+},{
+  "_id": {
+    "$oid": "637d4c074fd37a3bb4a2941e"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669155847439"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669155847439"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "637d4c074fd37a3bb4a2941c"
+  }
+},{
+  "_id": {
+    "$oid": "637d4c144fd37a3bb4a29421"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669155860914"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669155860914"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "637d4c144fd37a3bb4a2941f"
+  }
+},{
+  "_id": {
+    "$oid": "637d4c234fd37a3bb4a29424"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669155875877"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669155875877"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "637d4c234fd37a3bb4a29422"
+  }
+},{
+  "_id": {
+    "$oid": "637d4c354fd37a3bb4a29427"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669155893562"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669155893562"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "637d4c354fd37a3bb4a29425"
+  }
+},{
+  "_id": {
+    "$oid": "637d4c444fd37a3bb4a2942a"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669155908773"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669155908773"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "637d4c444fd37a3bb4a29428"
+  }
+},{
+  "_id": {
+    "$oid": "637d4c514fd37a3bb4a2942d"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669155921142"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669155921142"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "637d4c514fd37a3bb4a2942b"
+  }
+},{
+  "_id": {
+    "$oid": "637d4c5d4fd37a3bb4a29430"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669155933452"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669155933452"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "637d4c5d4fd37a3bb4a2942e"
+  }
+},{
+  "_id": {
+    "$oid": "637e937be852b7338c27728c"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669239675341"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669239675341"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "637e937be852b7338c27728a"
+  }
+},{
+  "_id": {
+    "$oid": "637fac0c2c0591567c842de6"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669311500066"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669311500066"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "637fac0c2c0591567c842de4"
+  }
+},{
+  "_id": {
+    "$oid": "637fc7bcebef4a2b30e4aa0e"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669318588575"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669318588575"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "637fc7bcebef4a2b30e4aa0c"
+  }
+},{
+  "_id": {
+    "$oid": "637fcc02ea90db5b80006f45"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669319682539"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669319682539"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "637fcc02ea90db5b80006f43"
+  }
+},{
+  "_id": {
+    "$oid": "637fcf896cb88053b085a3b3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669320585024"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669320585024"
+    }
+  },
+  "action": "Creacion de Usuario y credenciales",
+  "user": {
+    "$oid": "637fcf896cb88053b085a3b1"
+  }
+}]
